@@ -1,5 +1,26 @@
-Quick-bite is a website that allows students the flexibility of ordering their food option from the comfort of their hostel or anywhere they might be. It ensures the wellness of students by making it easy for them to eat properly. Whether they are having a full day's lecture or they're stuck with extracurriculars, students are still able to eat well with little to no additional cost. 
-The Technologies used were HTML5, CSS, as well as JavaScript. 
+QuickBite
+
+QuickBite is an online food ordering platform designed to help students conveniently order meals for delivery.
+
+Features
+
+* Online food ordering
+* Responsive user interface
+* Simple and intuitive user experience
+
+Technologies Used
+
+* HTML5
+* CSS3
+* React
+
+My Role
+
+Collaborator
+
+I contributed to frontend development, collaborated with teammates using GitHub, and helped build responsive user interfaces for the application.
+
+Developed collaboratively as part of a university Software Engineering project.
 
 Screenshots of the website will be displayed below;
 <img width="1846" height="1007" alt="Screenshot 2026-07-08 140130" src="https://github.com/user-attachments/assets/3417131f-c697-4961-b744-50149deccbd6" />
